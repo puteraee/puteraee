@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Puteraee ⋆｡°✩
 
-**AI Engineering Intern** *Final Year CS Student specializing in Graphic & Multimedia Technology*
+**AI Engineering Intern |** *Final Year CS Student specializing in Graphic & Multimedia Technology*
 
 ---
 
