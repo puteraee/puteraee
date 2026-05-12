@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 
 ---
 
-### 📊 GitHub Stats
+<!--### 📊 GitHub Stats
 ![Puteraee's GitHub stats](https://github-readme-stats.shion.dev/api?username=puteraee&theme=dracula&show_icons=true&hide_border=false)  
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=puteraee&theme=dracula&layout=compact)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=puteraee&theme=dracula&layout=compact)-->
 
 ### 📫 Let's Connect
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ryurkgk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/puteriayunuraysyah)
