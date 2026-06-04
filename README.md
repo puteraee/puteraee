@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 # Hi, I'm Puteraee ⋆｡°✩
 
 **AI Engineering Intern |** *Final Year CS Student specializing in Graphic & Multimedia Technology*
-
+<!--
 ---
 
-<!--### Currently Working on...
+### Currently Working on...
 
 #### 🤖 AI & Data Science
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -35,10 +35,11 @@ Here are some ideas to get you started:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ---
--->
-<!--### 📊 GitHub Stats
+
+### 📊 GitHub Stats
 ![Puteraee's GitHub stats](https://github-readme-stats.shion.dev/api?username=puteraee&theme=dracula&show_icons=true&hide_border=false)  
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=puteraee&theme=dracula&layout=compact)-->
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=puteraee&theme=dracula&layout=compact)
 
 ### 📫 Let's Connect
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ryurkgk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/puteriayunuraysyah)
+-->
